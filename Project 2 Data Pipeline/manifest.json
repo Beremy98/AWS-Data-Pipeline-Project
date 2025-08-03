@@ -1,0 +1,12 @@
+{
+  "fileLocations": [
+    {
+      "URIs": [
+        "https://jer-csv-final-data.s3.ca-central-1.amazonaws.com/run-1747585410078-part-r-00000.csv"
+      ]
+    }
+  ],
+  "globalUploadSettings": {
+    "textqualifier": "\""
+  }
+}
